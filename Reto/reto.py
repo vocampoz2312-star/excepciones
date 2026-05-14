@@ -17,7 +17,7 @@ def dividir_numeros():
 
     # finally:
     finally:
-        print("Operación de división completada.")
+        print(f"Operación de división completada. El resultado de la división es: {resultado}")
 
 # Llamada a la función
 dividir_numeros()
